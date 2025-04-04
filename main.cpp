@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Hello, from main!\n";
+    std::cout << "Hello, from remote!\n";
 }
